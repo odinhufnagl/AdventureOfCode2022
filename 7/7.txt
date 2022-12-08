@@ -1,0 +1,197 @@
+$ cd /
+$ ls
+dir bjrbjh
+dir dppgvlh
+dir fcfqp
+dir mtbt
+95962 mzvb
+dir qtfmf
+dir sfjrs
+dir trtl
+$ cd bjrbjh
+$ ls
+80731 ctprm.bpc
+$ cd ..
+$ cd dppgvlh
+$ ls
+180122 bbjw
+210923 ctprm.bpc
+304465 hhg
+dir rtdnhb
+$ cd rtdnhb
+$ ls
+295880 ctprm.bpc
+$ cd ..
+$ cd ..
+$ cd fcfqp
+$ ls
+dir cts
+dir gjzdf
+61601 hqvhrpnv
+27922 hqvhrpnv.sgf
+dir hvsnr
+191405 mzvb
+263646 nbjp.fdm
+dir qmsllmtw
+dir rpvstz
+dir vbhh
+dir zwllwsq
+$ cd cts
+$ ls
+47983 nhzpb
+$ cd ..
+$ cd gjzdf
+$ ls
+dir fcfqp
+161310 vtrhs.mlh
+$ cd fcfqp
+$ ls
+145412 vcbnl
+$ cd ..
+$ cd ..
+$ cd hvsnr
+$ ls
+dir sftjlqbm
+$ cd sftjlqbm
+$ ls
+96517 qlgp
+$ cd ..
+$ cd ..
+$ cd qmsllmtw
+$ ls
+172998 hhg
+$ cd ..
+$ cd rpvstz
+$ ls
+dir nccm
+dir tsstr
+$ cd nccm
+$ ls
+181998 fcfqp
+$ cd ..
+$ cd tsstr
+$ ls
+258571 tsstr
+$ cd ..
+$ cd ..
+$ cd vbhh
+$ ls
+317169 ctprm.bpc
+dir rpvstz
+dir scsclh
+307868 vcbnl
+118337 zbltwtj
+$ cd rpvstz
+$ ls
+dir fcfqp
+dir nzg
+dir pmhprnbb
+dir szshbn
+$ cd fcfqp
+$ ls
+dir hrhftz
+$ cd hrhftz
+$ ls
+163301 vlrjptvv.fsr
+$ cd ..
+$ cd ..
+$ cd nzg
+$ ls
+230765 hhg
+235220 ptg.dbs
+dir qsbpc
+220737 vtttmhf.dcl
+$ cd qsbpc
+$ ls
+74559 hqvhrpnv.phh
+322306 tqb.wnl
+$ cd ..
+$ cd ..
+$ cd pmhprnbb
+$ ls
+293892 hhg
+$ cd ..
+$ cd szshbn
+$ ls
+303519 tsstr.pml
+$ cd ..
+$ cd ..
+$ cd scsclh
+$ ls
+dir rdznzm
+$ cd rdznzm
+$ ls
+dir hthgb
+dir vgfhz
+270085 zjlcp
+$ cd hthgb
+$ ls
+2762 gjgczrpm.hlw
+$ cd ..
+$ cd vgfhz
+$ ls
+160621 svplfhqh.rfr
+27592 vcbnl
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd zwllwsq
+$ ls
+dir bmgpnmbt
+dir fbphbmbb
+217873 hhg
+dir hqvhrpnv
+$ cd bmgpnmbt
+$ ls
+dir fcfqp
+67327 hhg
+175579 qrgrtg.gtn
+185356 rdrtvn
+$ cd fcfqp
+$ ls
+16285 wqtnzw.cvj
+$ cd ..
+$ cd ..
+$ cd fbphbmbb
+$ ls
+dir fpnwjb
+dir hqvhrpnv
+dir jbm
+dir jsfscjd
+dir qmpbb
+dir sjhrg
+dir tsstr
+79487 tsstr.czd
+226172 tvdpb.vss
+$ cd fpnwjb
+$ ls
+78102 pgv.snz
+32886 wqtnzw.szw
+$ cd ..
+$ cd hqvhrpnv
+$ ls
+247435 ctprm.bpc
+dir drpffn
+dir fvqzjjhp
+312573 hqvhrpnv
+103964 swbvbwd
+dir szdbbtw
+129434 trjpn.htm
+33772 vgjnhmbc.hcr
+dir vvrhmrbs
+$ cd drpffn
+$ ls
+204660 wdhl.dgs
+$ cd ..
+$ cd fvqzjjhp
+$ ls
+dir qtc
+$ cd qtc
+$ ls
+74576 wgfffz
+$ cd ..
+$ cd ..
+$ cd szdbbtw
+$ ls
+dir fcfqp
