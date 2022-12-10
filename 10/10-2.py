@@ -12,25 +12,24 @@ class CommandType(enum.Enum):
 
 class Command():
     def __init__(self, command_type, val):
-        self.command_type = str_to_command(command_type)
+        self.command_type = self.__str_to_command(command_type)
         self.value = val
-        self.cycles = command_type_to_cycles(self.command_type)
+        self.cycles = self.__init_cycles()
 
+    def __init_cycles(self):
+        switcher = {
+            CommandType.ADD_X: 2,
+            CommandType.NOOP: 1,
+        }
+        return switcher[self.command_type] 
 
-def command_type_to_cycles(command_type):
-    switcher = {
-        CommandType.ADD_X: 2,
-        CommandType.NOOP: 1,
-    }
-    return switcher[command_type]
-    
+    def __str_to_command(self, str):
+        switcher = {
+            "addx": CommandType.ADD_X,
+            "noop": CommandType.NOOP,
+        }
+        return switcher[str]
 
-def str_to_command(str):
-    switcher = {
-        "addx": CommandType.ADD_X,
-        "noop": CommandType.NOOP,
-    }
-    return switcher[str]
 cycle_count = 0
 
 sum = 0
@@ -53,7 +52,6 @@ for line in lines:
     for cycle in range(command.cycles):
         crt_position = cycle_count-1
         print(crt_position, x)
-
         cycle_count += 1
         if (crt_position % w >= x-1 and crt_position % w <= x+1):
             crt_grid[math.floor(crt_position / w)][crt_position % w] = "#"
